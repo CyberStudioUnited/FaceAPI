@@ -1,5 +1,6 @@
 # FaceAPI
 This brand new machine works on any camera up to 2015 or newer.
+This api was originally from one of our partners, who created a face api, this one was re-coded as a simple one.
 
 # Screenshots
 ![ss1fapi](https://user-images.githubusercontent.com/72953518/111711211-9b8dec80-8821-11eb-8fa6-d68a88e33ff3.PNG)
